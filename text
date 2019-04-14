@@ -1,0 +1,5 @@
+def funt(n)
+  print(i)
+  i = n * funt( n - 1 )
+  else:
+    return 1
